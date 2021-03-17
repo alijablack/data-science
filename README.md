@@ -9,7 +9,7 @@ Welcome to the Data Science repository. I have included Data Science projects fr
 - Natural Language Processing
 - Convolutional Neural Networks
 
-My journey into the field was inspired by how to apply data science for social good. My first attempt involved a team research project using *Hierarchical Clustering* for Early Childhood Education Equity in New Mexico presented to the New Mexico Early Childhood Education and Care Department and statewide early education policy thinktanks and nonprofit advocacy organizations. 
+My journey into the field was inspired by how to apply data science for social good. The project using *Hierarchical Clustering for Early Childhood Education Equity* in New Mexico presented to the New Mexico Early Childhood Education and Care Department and statewide early education policy thinktanks and nonprofit advocacy organizations. 
 ![Head Start Capstone](https://user-images.githubusercontent.com/67302599/111367311-da6d4800-8651-11eb-8a6f-a8bac20b4246.jpeg)
 ![HS 1](https://user-images.githubusercontent.com/67302599/111369097-e4904600-8653-11eb-824e-d7844b76a7af.jpeg)
 ![hs 2](https://user-images.githubusercontent.com/67302599/111369115-e954fa00-8653-11eb-9496-703917d24e27.jpeg)
